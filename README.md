@@ -47,14 +47,6 @@ Quantative: For any given remake we ran our model for the actor who appeared in 
 |James Franco|
 | Will Smith |
 
------
-| Lead Actor of Its a Wonderful life(1946) if it was remade in 2016  |
-|--:|
-|Matt Damon|
-|Adrien Brody |
-|Matthew McConaughey|
-|James Franco|
-| Will Smith |
 
 Testing replacements for an older male actor Remake Lord of the Rings (2001) in 2011 
 Top 5 replacements for Ian Mckellen
