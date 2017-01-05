@@ -48,7 +48,7 @@ Quantative: For any given remake we ran our model for the actor who appeared in 
 | Will Smith |
 
 
-Testing replacements for an older male actor Remake Lord of the Rings (2001) in 2011 
+Testing replacements for an older male actor <br>Remake Lord of the Rings (2001) in 2011 
 <br>
 Top 5 replacements for Ian Mckellen
 - Bill Nighy
@@ -58,7 +58,7 @@ Top 5 replacements for Ian Mckellen
 - Jeff Daniels
 
 Testing for lead male actor - James Bond <br>
-Remake Die Another Day(2000) in 1980 
+Remake Die Another Day(2000) in 1980<br> 
 Top 5 replacements for Pierce Brosnan -
 - Roger Moore 
 - Sean Connery
@@ -68,7 +68,7 @@ Top 5 replacements for Pierce Brosnan -
 
 
 Testing for lead female actor in 90s <br>
-Remake Mr. & Mrs Smith (2005) in 1990 
+Remake Mr. & Mrs Smith (2005) in 1990 <br>
 Top 5 replacements for Angelina Jolie.
 - Nicole Kidman 
 - Julia Roberts 
@@ -76,7 +76,7 @@ Top 5 replacements for Angelina Jolie.
 - Jodie Foster
 - Sharon Stone
 
-Testing for lead female actor today Remake Mr. & Mrs Smith (2005) in 2016 <br>
+Testing for lead female actor today<br> Remake Mr. & Mrs Smith (2005) in 2016 <br>
 Top 5 replacements for Angelina Jolie.
 
 - Keira Knightley 
@@ -104,7 +104,7 @@ Replacing Meryl Streep in The Devil wears Prada (2006) to 2016
 
 
 Child Actor test<br>
-Remake Home Alone 1990 in 2001 Replace Macaulay Culkin
+Remake Home Alone 1990 in 2001 <br>Replace Macaulay Culkin
 - Taylor Lautner 
 - Daniel Radcliffe 
 - Dylan O Brien
