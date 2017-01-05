@@ -49,6 +49,7 @@ Quantative: For any given remake we ran our model for the actor who appeared in 
 
 
 Testing replacements for an older male actor Remake Lord of the Rings (2001) in 2011 
+<br>
 Top 5 replacements for Ian Mckellen
 - Bill Nighy
 - Liam Neeson
@@ -56,7 +57,7 @@ Top 5 replacements for Ian Mckellen
 - Bob Hoskins
 - Jeff Daniels
 
-Testing for lead male actor - James Bond 
+Testing for lead male actor - James Bond <br>
 Remake Die Another Day(2000) in 1980 
 Top 5 replacements for Pierce Brosnan -
 - Roger Moore 
@@ -66,8 +67,7 @@ Top 5 replacements for Pierce Brosnan -
 - Clint Eastwood
 
 
-
-Testing for lead female actor in 90s 
+Testing for lead female actor in 90s <br>
 Remake Mr. & Mrs Smith (2005) in 1990 
 Top 5 replacements for Angelina Jolie.
 - Nicole Kidman 
@@ -76,7 +76,7 @@ Top 5 replacements for Angelina Jolie.
 - Jodie Foster
 - Sharon Stone
 
-Testing for lead female actor today Remake Mr. & Mrs Smith (2005) in 2016 
+Testing for lead female actor today Remake Mr. & Mrs Smith (2005) in 2016 <br>
 Top 5 replacements for Angelina Jolie.
 
 - Keira Knightley 
@@ -85,7 +85,7 @@ Top 5 replacements for Angelina Jolie.
 - Anne Hathaway 
 - Kirsten Dunst
 
-Testing lead female actor in 60s
+Testing lead female actor in 60s<br>
 Recast Kate Winslet in Titanic from 1998 to 1960
 - Maggie Smith
 - Glenda Jackson
@@ -94,7 +94,7 @@ Recast Kate Winslet in Titanic from 1998 to 1960
 - Judi Dench
 
 
-Recast Older Actress
+Recast Older Actress<br>
 Replacing Meryl Streep in The Devil wears Prada (2006) to 2016
 - Jessica Lange
 - Sissy Spacek
@@ -103,7 +103,7 @@ Replacing Meryl Streep in The Devil wears Prada (2006) to 2016
 - Emma Thompson
 
 
-Child Actor test
+Child Actor test<br>
 Remake Home Alone 1990 in 2001 Replace Macaulay Culkin
 - Taylor Lautner 
 - Daniel Radcliffe 
